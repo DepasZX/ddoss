@@ -1,2 +1,3 @@
-# ddoss
-DDOS SAMP
+DevasZX
+
+Discord:DepasZX#1612
